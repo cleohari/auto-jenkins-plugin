@@ -5,7 +5,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.4</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <groupId>io.jenkins.plugins</groupId>
     <artifactId>nowsecure-auto-security-test</artifactId>
@@ -27,7 +27,7 @@
         <dependency>
             <groupId>org.yaml</groupId>
             <artifactId>snakeyaml</artifactId>
-            <version>1.21</version>
+            <version>1.33</version>
         </dependency>
         <dependency>
             <groupId>com.googlecode.json-simple</groupId>
